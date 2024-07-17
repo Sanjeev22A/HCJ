@@ -1,0 +1,11 @@
+{%MENU-CATEGORY%}- for the title
+
+{%CONTENT-STRING%} - for the content below the title
+
+{%DNUM%} - Dish number from restaurant menu
+
+{%%} -  i havent given such a template string for image to first set it in the page and style it
+
+{%MENU-ITEM-TITLE%}-Menu item title
+
+{%MENU-ITEM-DETAILS%}-description of menu item(i have included lorem ipsum to make the content be suitable for styling)
